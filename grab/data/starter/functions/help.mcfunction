@@ -1,0 +1,1 @@
+tellraw @a {"text":"To grab a mob, hold a carrot on a stick in your hand, and then right click on it. The mob will be attached to your mouse pointer! To let go of it, punch it. To launch it, sneak while punching the mob.\nWhile grabbing you cannot:\n• Punch other mobs\n• Let go of the cannot on a stick"}

@@ -1,0 +1,1 @@
+execute as @p at @a anchored eyes facing entity @e[sort=nearest,limit=1,type=!player] eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 if entity @a[distance=..0.3] run tag @e[type=!player,sort=nearest,limit=1] add grab
